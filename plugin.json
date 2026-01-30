@@ -430,29 +430,29 @@
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/icon.png"
     },
     {
-        "Author":"decorwdyun",
-        "Name":"PFRadar",
-        "InternalName":"PFRadar",
-        "Punchline":"透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询 & Sumemo 高难攻略进度查询，免费插件，请勿倒卖",
-        "Description":"CN Only! 稿子退散（爬）！\n- 新功能：招募过滤器：一键过滤开荒、伐木、老板队、固定队、装甲车招募",
-        "ApplicableVersion":"any",
-        "IconUrl":"https://gp-raw.xuolu.com/raw/decorwdyun/DalamudPlugins/main/PFRadar/icon.png",
-        "Tags":[
-            "PFRadar",
-            "PFClassifier",
-            "sumemo",
-            "招募",
-            "招募过滤",
-            "黑名单"
-        ],
-        "Changelog":"- Sumemo 历史记录支持按小队聚合显示",
-        "DalamudApiLevel":14,
-        "LastUpdate":1767581048,
-        "DownloadCount":208154,
-        "DownloadLinkInstall":"https://gp-raw.xuolu.com/release/decorwdyun/PFRadar/releases/download/1.4.0.15/latest.zip",
-        "DownloadLinkUpdate":"https://gp-raw.xuolu.com/release/decorwdyun/PFRadar/releases/download/1.4.0.15/latest.zip",
-        "AssemblyVersion":"1.4.0.15"
-    },
+    "Author": "decorwdyun",
+    "Name": "PFRadar",
+    "InternalName": "PFRadar",
+    "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询 & Sumemo 高难攻略进度查询，免费插件，请勿倒卖",
+    "Description": "CN Only! 稿子退散（爬）！\n- 新功能：招募过滤器：一键过滤开荒、伐木、老板队、固定队、装甲车招募",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFRadar/icon.png",
+    "Tags": [
+      "PFRadar",
+      "PFClassifier",
+      "sumemo",
+      "招募",
+      "招募过滤",
+      "黑名单"
+    ],
+    "Changelog": "- Sumemo 历史记录支持按小队聚合显示",
+    "DalamudApiLevel": 14,
+    "LastUpdate": 1767581048,
+    "DownloadCount": 208154,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.15/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.15/latest.zip",
+    "AssemblyVersion": "1.4.0.15"
+  },
     {
     "Name": "Daily Routines",
     "InternalName": "DailyRoutines",
