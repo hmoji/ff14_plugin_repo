@@ -402,5 +402,119 @@
     "IconUrl": "https://gh.atmoomen.top/https://raw.githubusercontent.com/AtmoOmen/StaticAssets/main/DailyRoutines/image/icon.png",
     "DownloadLinkInstall": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DalamudPlugins/releases/download/DR-2.0.0.5/latest.zip",
     "DownloadLinkUpdate": "https://gh.atmoomen.top/https://github.com/AtmoOmen/DalamudPlugins/releases/download/DR-2.0.0.5/latest.zip"
+  },
+  {
+    "Name": "RezPls CN",
+    "InternalName": "RezPls",
+    "AssemblyVersion": "1.5.3.0",
+    "Author": "Ottermandias Nag0mi",
+    "Punchline": "高亮显示被复活和可被驱散的debuff状态.",
+    "Description": "轻松概览谁正在复活谁,\n已经复活了,\n以及世界上谁拥有可驱散的debuff影响.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "复活",
+      "驱散",
+      "显示"
+    ],
+    "DalamudApiLevel": 14,
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/eroubue/RezPls/master/images/icon.png",
+    "RepoUrl": "https://github.com/eroubue/RezPls/",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip"
+  },
+  {
+	"Author": "shdwp, Avaflow, abashby, nebel, Nag0mi",
+	"Name": "Party Icons CN",
+	"InternalName": "PartyIcons",
+	"AssemblyVersion": "1.2.3.2",
+	"Punchline": "用职业图标、职能位置等替换名称",
+	"Description": "根据当前内容调整玩家铭牌。例如，您可以显示团队位置（通过监听聊天自动分配）、职业图标或带有职业图标的名称。",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/eroubue/xivPartyIcons",
+	"Tags": [
+		"UI"
+	],
+	"DalamudApiLevel": 14,
+	"AcceptsFeedback": true,
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/latest.zip"
+},
+{
+	"Author": "Kouzukii Nag0mi",
+	"Name": "Death Recap CN",
+	"InternalName": "DeathRecap",
+	"AssemblyVersion": "1.13.3.0",
+	"Description": "快速确认什么玩意弄死了你和你的小伙伴!\n\n显示:\n- 治疗\n- 受到的伤害\n- Debuffs\n- Buffs\n- 盾\n- 伤害来源的目标减",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/eroubue/ffxiv-deathrecap",
+	"Tags": [
+		"death",
+		"recap",
+		"log"
+	],
+	"CategoryTags": [
+		"utility"
+	],
+	"Punchline": "快速确认什么玩意弄死了你和你的小伙伴!",
+	"DalamudApiLevel": 14,
+	"AcceptsFeedback": true,
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/latest.zip"
+},
+{
+    "Author": "Tischel",
+    "Name": "ActionTimeline",
+    "InternalName": "ActionTimeline",
+    "AssemblyVersion": "1.8.0.0",
+    "Description": "Configurable timeline display of all the actions you use.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Tischel/ActionTimeline",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Show your actions in real-time.",
+    "Changelog": "# 1.8.0.0\n\n- Added support for Patch 7.4 and Dalamud API 14.",
+    "AcceptsFeedback": true,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": "1766113069",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/stable/ActionTimeline/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/testing-live/ActionTimeline/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/PluginDistD17/main/testing-live/ActionTimeline/latest.zip"
+  },
+  {
+    "Author": "Infi, Anna, MeowZWR, ElliotZ",
+    "Name": "Chat 2 CN",
+    "InternalName": "ChatTwo",
+    "AssemblyVersion": "1.31.3.0",
+    "Description": "Chat 2是作为插件对游戏内聊天窗口的彻底重构版本。\n它支持以下功能：\n-无数量限制的聊天标签页\n-始终发送至特定频道的标签页设置\n-更灵活的聊天过滤机制\n-支持RGB设置的频道色彩自定义\n-完全自由调节的字体大小\n-侧边栏标签页布局\n-未读消息计数显示\n-表情符号功能\n-截图模式（支持匿名化处理玩家名称）",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ElliotZ/ChatTwoCN",
+    "Tags": [
+      "Social",
+      "UI",
+      "Chat",
+      "Replacement"
+    ],
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "《电力布吉舞》——♪ 一个全新的聊天，一个美妙的新聊天窗口♪",
+    "Changelog": "修改字形Glyph Range的默认设置",
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/Infiziert90/ChatTwo/main/ChatTwo/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/ChatTwo/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/ChatTwo/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/ChatTwo/latest.zip"
   }
 ]
