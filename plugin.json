@@ -27,33 +27,6 @@
         "LastUpdate": "1766326430"
     },
     {
-        "Name":"Questionable",
-        "Author":"Liza Carvelli, decorwdyun(汉化), various contributor",
-        "Punchline":"一个小小的的自动任务插件。",
-        "Description":"一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
-        "Tags":[
-            "qst",
-            "quests",
-            "Questionable",
-            "任务",
-            "自动",
-            "主线任务"
-        ],
-        "Changelog":"[自动构建]\n- 同步上游近期更新",
-        "InternalName":"Questionable",
-        "AssemblyVersion":"14.205.19.0",
-        "RepoUrl":"https://github.com/decorwdyun/Questionable",
-        "IconUrl":"https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
-        "ApplicableVersion":"any",
-        "DalamudApiLevel":14,
-        "DownloadLinkInstall":"https://gp-raw.xuolu.com/release/decorwdyun/Questionable/releases/download/14.205.19.0-cn/Questionable-14.205.19.0.zip",
-        "IsHide":false,
-        "IsTestingExclusive":false,
-        "DownloadLinkUpdate":"https://gp-raw.xuolu.com/release/decorwdyun/Questionable/releases/download/14.205.19.0-cn/Questionable-14.205.19.0.zip",
-        "DownloadCount":265447,
-        "LastUpdate":"1769589205"
-    },
-    {
     "Name": "vnavmesh",
     "InternalName": "vnavmesh",
     "AssemblyVersion": "0.3.5.0",
@@ -286,28 +259,6 @@
         "LastUpdate": "1769602182"
     },
     {
-        "Author":"decorwdyun",
-        "Name":"PFClassifier",
-        "InternalName":"PFClassifier",
-        "Punchline":"CN Only! PFRadar 高难招募分类器的前置依赖 一键过滤开荒、伐木、老板队、固定队、装甲车广告招募，没有任何界面，安装即可",
-        "Description":"CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFRadar 的招募分类功能的话无需安装）",
-        "ApplicableVersion":"any",
-        "Changelog":"[自动构建]\n- 学习了游戏内近期招募，分类应该更准确了\n\nPFClassifier 会定期扩展数据集进行重新训练\n请及时更新至最新版以保持最佳识别率，有问题可在 Github Issue 区进行反馈",
-        "IconUrl":"https://gp-raw.xuolu.com/raw/decorwdyun/DalamudPlugins/main/PFClassifier/icon.png",
-        "Tags":[
-            "PFRadar",
-            "招募",
-            "PFClassifier"
-        ],
-        "RepoUrl":"https://github.com/decorwdyun/PFClassifier",
-        "DalamudApiLevel":14,
-        "DownloadCount":15631,
-        "LastUpdate":1769267943,
-        "DownloadLinkInstall":"https://gp-raw.xuolu.com/release/decorwdyun/PFClassifier/releases/download/v1.2.17/latest.zip",
-        "DownloadLinkUpdate":"https://gp-raw.xuolu.com/release/decorwdyun/PFClassifier/releases/download/v1.2.17/latest.zip",
-        "AssemblyVersion":"1.2.17"
-    },
-    {
     "Author": "NightmareXIV",
     "Name": "Splatoon",
     "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
@@ -429,30 +380,6 @@
         "SupportsProfiles": true,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/icon.png"
     },
-    {
-    "Author": "decorwdyun",
-    "Name": "PFRadar",
-    "InternalName": "PFRadar",
-    "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询 & Sumemo 高难攻略进度查询，免费插件，请勿倒卖",
-    "Description": "CN Only! 稿子退散（爬）！\n- 新功能：招募过滤器：一键过滤开荒、伐木、老板队、固定队、装甲车招募",
-    "ApplicableVersion": "any",
-    "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFRadar/icon.png",
-    "Tags": [
-      "PFRadar",
-      "PFClassifier",
-      "sumemo",
-      "招募",
-      "招募过滤",
-      "黑名单"
-    ],
-    "Changelog": "- Sumemo 历史记录支持按小队聚合显示",
-    "DalamudApiLevel": 14,
-    "LastUpdate": 1767581048,
-    "DownloadCount": 208154,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.15/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.15/latest.zip",
-    "AssemblyVersion": "1.4.0.15"
-  },
     {
     "Name": "Daily Routines",
     "InternalName": "DailyRoutines",
